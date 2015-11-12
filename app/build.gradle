@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "vieboo.http.okhttp"
-        minSdkVersion 9
+        minSdkVers
         targetSdkVersion 22
         versionCode 1
         versionName "1.0"
